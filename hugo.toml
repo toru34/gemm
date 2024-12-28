@@ -1,0 +1,4 @@
+baseURL = 'https://toru34.github.io/gemm/'
+languageCode = 'en-gb'
+title = 'GEMM'
+theme = 'hugo-book'
